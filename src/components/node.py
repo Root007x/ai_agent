@@ -27,10 +27,20 @@ class Node:
 
     # Node 2
     async def latest_info(self,state : State, search): # Done
-        search_response = await search.ainvoke(
-            {"messages" : [{"role" : "user", "content" : state["input"]}]}
+        prompt = (
+            f"{state['input']}\n"
+            "Use available tools to provide a concise, factual answer. "
+            "Keep it informative but brief — just enough to answer the question clearly. "
+            "Do not include reasoning, tables, or links."
         )
-        return {"output" : search_response["messages"]}
+        search_response = await search.ainvoke(
+            {"messages" : [{"role" : "user", "content" : prompt}]}
+        )
+
+        ai_msg = [m for m in search_response["messages"] if m.type == "ai"]
+        final_output = ai_msg[-1].content if ai_msg else "Not Found"
+        
+        return {"output" : final_output}
         
 
     # Node 3

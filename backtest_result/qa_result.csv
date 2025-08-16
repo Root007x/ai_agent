@@ -1,0 +1,30 @@
+Question,Answer,Response Time (s),Accuracy (BLEU)
+What is the capital of Bangladesh?,The capital of Bangladesh is Dhaka.,4.36,1.0
+Explain photosynthesis.,"**What is Photosynthesis?**
+
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of organic compounds, such as glucose. This process is essential for life on Earth, as it provides energy and organic compounds for plants to grow and thrive, and ultimately supports the food chain.
+
+**The Photosynthetic Process**
+
+Photosynthesis occurs in specialized organelles called chloroplasts, which are present in plant cells. The process involves the conversion of carbon dioxide (CO2) and water (H2O) into glucose (C6H12O6) and oxygen (O2) using light energy from the sun. The overall equation for photosynthesis is:
+
+6 CO2 + 6 H2O + light energy → C6H12O6 (glucose) + 6 O2
+
+**The Steps of Photosynthesis**
+
+There are two main stages of photosynthesis: the light-dependent reactions and the light-independent reactions.
+
+1. **Light-Dependent Reactions**: This stage occurs in the thylakoid membranes of the chloroplast and involves the absorption of light energy by pigments such as chlorophyll. The light energy is used to generate ATP (adenosine triphosphate) and NADPH (nicotinamide adenine dinucleotide phosphate).
+2. **Light-Independent Reactions (Calvin Cycle)**: This stage occurs in the stroma of the chloroplast and involves the fixation of CO2 into organic compounds using the ATP and NADPH produced in the light-dependent reactions. The Calvin cycle produces glucose and other organic compounds.
+
+**Importance of Photosynthesis**
+
+Photosynthesis is essential for life on Earth, as it:
+
+* Provides energy and organic compounds for plants to grow and thrive
+* Supports the food chain by producing energy-rich compounds that are consumed by herbivores and carnivores
+* Produces oxygen (O2) as a byproduct, which is essential for the survival of most living organisms
+* Helps regulate the Earth's climate by removing CO2 from the atmosphere and releasing O2
+
+In summary, photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy, producing glucose and oxygen as byproducts. This process is essential for life on Earth and supports the food chain, produces oxygen, and helps regulate the climate.",4.43,0.019217452730824387
+Who wrote 'Pride and Prejudice'?,"The novel 'Pride and Prejudice' was written by English author Jane Austen. The book was first published on January 28, 1813. It is one of Austen's most famous works and remains a popular classic in English literature.",4.01,0.13806793337356849

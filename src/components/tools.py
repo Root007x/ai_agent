@@ -24,6 +24,10 @@ class ModelTools:
             })
                 # Get tools from all servers
             tools = await client.get_tools()
+            
+            if tools is None:
+                logger.warning("No tools returned from MCP Server.")
+                return []
                 
             logger.info("Tools fetched successfully")
             return tools
@@ -31,6 +35,7 @@ class ModelTools:
         except Exception as e:
             error = CustomException("Failed to connect MCP server", e)
             logger.error(str(error))
+            return []
         
     
 

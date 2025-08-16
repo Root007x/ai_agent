@@ -1,5 +1,6 @@
 from src.components.graph import build_agent
 import asyncio
+import unicodedata
 
 from src.utils.custom_exception import CustomException
 from src.utils.logger import logger
@@ -23,6 +24,7 @@ async def main(query : str):
         logger.error(error)
         
 if __name__ == "__main__":
-    prompt = "Hi"
+    prompt = "Today BD temperature"
     output = asyncio.run(main(query=prompt))
-    print(output)
+    normalized_text = unicodedata.normalize('NFC', output["output"])
+    print(normalized_text)

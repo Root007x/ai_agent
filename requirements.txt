@@ -10,3 +10,5 @@ Pillow
 pydantic
 mcp[cli]
 langchain_mcp_adapters
+nltk
+matplotlib
