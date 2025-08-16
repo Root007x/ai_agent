@@ -2,6 +2,13 @@
 
 An intelligent agent system built with LangChain, LangGraph, and FastAPI that combines graph-based routing with advanced language models to handle various types of queries including Q&A, real-time information retrieval, image generation, and social media content tailoring.
 
+## Live Demo
+
+The FastAPI application is deployed and accessible on Hugging Face Spaces:
+
+- API Documentation: [https://root007x-ai-agent.hf.space/docs](https://root007x-ai-agent.hf.space/docs)
+- Live Demo: [https://root007x.github.io/chat_interface/](https://root007x-ai-agent.hf.space)
+
 ## Architecture
 
 ![Agent Architecture](img/agent_architecture.PNG)
@@ -172,14 +179,74 @@ TOOL_API = your-mcp-api-key
 4. Run the application:
 
 ```bash
-uvicorn main:app --reload
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-## API Endpoints
+5. Access the Interactive API Documentation:
 
-- **POST /register/** - Register new user
-- **POST /token** - Get authentication token
-- **POST /task** - Submit task to AI agent
+```
+http://localhost:8000/docs
+```
+
+Here you can:
+
+- Explore all API endpoints
+- Test the endpoints directly in your browser
+- View request/response schemas
+- Try out the API with authentication
+
+## API Usage Guide
+
+### 1. User Registration (`/register`)
+
+- Navigate to `http://localhost:8000/docs`
+- Find the `/register` endpoint
+- Click "Try it out" and enter your details:
+
+```json
+{
+  "username": "your_username",
+  "email": "your_email@example.com",
+  "password": "your_password"
+}
+```
+
+- Click "Execute" to create your account
+
+### 2. Get Authentication Token (`/token`)
+
+- Go to the `/token` endpoint
+- Click "Try it out"
+- Enter your credentials:
+  - username: your_username
+  - password: your_password
+- Click "Execute" to get your access token
+
+### 3. Authorize Your Requests
+
+- Click the "Authorize" button at the top of the Swagger UI
+- Enter your username and password
+- Click "Authorize" to authenticate all future requests
+
+### 4. Submit Tasks (`/task`)
+
+- Go to the `/task` endpoint
+- Click "Try it out"
+- Enter your query in the request body:
+
+```json
+{
+  "task": "What is artificial intelligence?"
+}
+```
+
+- Click "Execute" to get the AI agent's response
+
+## API Endpoints Summary
+
+- **POST /register/** - Create new user account
+- **POST /token** - Generate authentication token
+- **POST /task** - Submit queries to AI agent
 
 ## Security
 
