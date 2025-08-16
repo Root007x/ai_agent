@@ -172,7 +172,7 @@ TOOL_API = your-mcp-api-key
 4. Run the application:
 
 ```bash
-uvicorn main:app --host 0.0.0.0 --port 5555 --reload
+uvicorn main:app --reload
 ```
 
 ## API Endpoints
