@@ -13,4 +13,8 @@ langchain_mcp_adapters
 nltk
 matplotlib
 fastapi
-uvicorn
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy

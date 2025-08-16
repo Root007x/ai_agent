@@ -1,30 +1,23 @@
-from src.components.graph import build_agent
-import asyncio
-import unicodedata
+from fastapi import FastAPI
+from auth import models
+from auth.db import engine
+from auth.routes import router
+from fastapi.middleware.cors import CORSMiddleware
 
-from src.utils.custom_exception import CustomException
-from src.utils.logger import logger
 
-logger = logger(__name__)
+app = FastAPI()
 
-async def main(query : str):
-    try:
-        graph = await build_agent()
-        
-        result = await graph.ainvoke(
-            {
-                "input": query
-            }
-        )
-        
-        return result
-    
-    except Exception as e:
-        error = CustomException("An error occurred",e)
-        logger.error(error)
-        
-if __name__ == "__main__":
-    prompt = "Today BD temperature"
-    output = asyncio.run(main(query=prompt))
-    normalized_text = unicodedata.normalize('NFC', output["output"])
-    print(normalized_text)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+models.Base.metadata.create_all(bind = engine)
+
+app.include_router(router)
+
+# if __name__ == "__main__":
+#     uvicorn.run(app=app, host = "0.0.0.0", port = 5555)

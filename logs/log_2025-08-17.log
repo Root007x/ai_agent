@@ -1,0 +1,32 @@
+2025-08-17 02:27:33,932 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\BOSS\Desktop\Agent_AI\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-08-17 02:29:02,831 - INFO - Decision LLM Model Initialize successfully
+2025-08-17 02:29:03,454 - INFO - Agent LLM Model Initialize successfully
+2025-08-17 02:29:05,529 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:05,533 - INFO - Received session ID: eyJpIjoiNTY4MzI3MTJmZTAyMDgiLCJzIjoiMDE5OGI0OTItNGVlOS03YWVmLTllYWEtNDA0NTlmZjkyYzE1IiwidiI6MX0.6X9NPtfbLuQa7ewRWSfn0xI2m6uDDqwPlD90fE589PE,60da48d3-589b-457c-942e-d8acb749c6d8
+2025-08-17 02:29:05,535 - INFO - Negotiated protocol version: 2025-06-18
+2025-08-17 02:29:05,949 - INFO - HTTP Request: GET https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:06,023 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-17 02:29:06,445 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:06,860 - INFO - HTTP Request: DELETE https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:06,861 - INFO - Tools fetched successfully
+2025-08-17 02:29:06,873 - INFO - Search Agent Created Successfully
+2025-08-17 02:29:07,289 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 02:29:07,526 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 02:29:28,353 - INFO - Decision LLM Model Initialize successfully
+2025-08-17 02:29:28,977 - INFO - Agent LLM Model Initialize successfully
+2025-08-17 02:29:30,482 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:30,482 - INFO - Received session ID: eyJpIjoiNTY4MzI3MTJmZTAyMDgiLCJzIjoiMDE5OGI0OTItYjBlNC03MzViLThhOGItMDU2N2M3ZTdjMzZjIiwidiI6MX0.ZwzBOzXccxLUpzTZv7LIUGerW6tauxX0ae80VrAh8Fg,829c8405-ccfa-4a0a-8dcb-ef13513f6cd5
+2025-08-17 02:29:30,483 - INFO - Negotiated protocol version: 2025-06-18
+2025-08-17 02:29:30,890 - INFO - HTTP Request: GET https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:30,908 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-17 02:29:31,321 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:31,736 - INFO - HTTP Request: DELETE https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-17 02:29:31,737 - INFO - Tools fetched successfully
+2025-08-17 02:29:31,741 - INFO - Search Agent Created Successfully
+2025-08-17 02:29:32,004 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 02:29:32,007 - INFO - Image Generated Successfully
