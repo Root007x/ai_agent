@@ -1,0 +1,307 @@
+2025-08-16 14:14:15,481 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:14:16,042 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:14:16,372 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 14:14:39,243 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:14:39,848 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:14:40,064 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 14:17:36,225 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:17:36,796 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:19:48,742 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:19:49,314 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:24:36,310 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:24:36,310 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIxZmItMTc2OC03MjJlLWFiYzAtZWNhMDg4NTNmYzg5IiwidiI6MX0.qdMsePc29LiF1Zu37sFHJivbOlt65X0lPLqyej7bCMk,9abf2491-fe6e-4c9d-b360-353d4f5e0e39
+2025-08-16 14:24:36,311 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 14:24:36,731 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 14:24:36,737 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:24:37,137 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:24:37,593 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 14:24:37,596 - INFO - Getting all the tools from server successfully
+2025-08-16 14:24:38,296 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:24:38,862 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:25:11,276 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:25:11,860 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:25:13,684 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:25:13,685 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIxZmItYTUxYS03OGJhLTgzN2MtMGZmMmYyNDU0YWQ4IiwidiI6MX0.aKDoNk2Kap6QzjIuDcMtt5jVYdVYsMvsE0IwiK23gy0,e94aa699-8eb4-47cb-a035-20d7cceca76b
+2025-08-16 14:25:13,688 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 14:25:14,199 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 14:25:14,223 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:25:14,721 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:25:15,306 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 14:25:15,308 - INFO - Getting all the tools from server successfully
+2025-08-16 14:25:34,481 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:25:35,048 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:25:35,824 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:25:35,824 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIxZmItZmZkMC03ZmE1LWFiZDctNjYxMWVkNjFhYzU5IiwidiI6MX0.7othghEfOLKEox_7mIgBosVHrmyQhNGyfx4nmue07o4,1301387f-a53f-4e41-a322-b89279956b97
+2025-08-16 14:25:35,827 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 14:25:36,261 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:25:36,299 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 14:25:36,786 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:25:37,236 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 14:25:37,239 - INFO - Getting all the tools from server successfully
+2025-08-16 14:49:30,135 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:49:30,742 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:49:31,572 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:49:31,573 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMTEtZTgwNi03M2ZmLTk2NzctYTY0Nzc1MDJmNGNhIiwidiI6MX0.AxeU_NUqVIOJLXWlOw_pUNNCr3fR3c7Tk1ZXwHVH6_c,0426204c-fe76-4dfd-895b-9d9431437cb3
+2025-08-16 14:49:31,575 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 14:49:32,037 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:49:32,087 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 14:49:32,513 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:49:32,955 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 14:49:32,958 - INFO - Getting all the tools from server successfully
+2025-08-16 14:49:32,992 - INFO - Search Agent Created Successfully
+2025-08-16 14:51:53,735 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:51:54,302 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:51:55,227 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:51:55,228 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMTQtMTg5NS03NTUwLWFhYjItNGE4ZDZhNTliMDc5IiwidiI6MX0.W6u6dvLzpHD77CvgUm0WRqG0kASM-NcXg2CjALcolBs,0662876e-c184-427c-9cd1-a4b6975335f8
+2025-08-16 14:51:55,231 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 14:51:55,698 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:51:55,709 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 14:51:56,193 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:51:56,747 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 14:51:56,750 - INFO - Getting all the tools from server successfully
+2025-08-16 14:51:56,803 - INFO - Search Agent Created Successfully
+2025-08-16 14:58:46,153 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:58:46,856 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:58:47,689 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:58:47,689 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMWEtNjQ3Yy03NDU4LWE1NTAtMGQwNzY5ZmViMjgyIiwidiI6MX0.wtm5DvAEEaN7Iz47ZVRxDmeSoQjfLL_6oIenzsukzPw,4ee4b8aa-72bf-4174-8969-6bbd18ff4692
+2025-08-16 14:58:47,690 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 14:58:48,163 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:58:48,241 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 14:58:49,108 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:58:49,539 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 14:58:49,540 - INFO - Getting all the tools from server successfully
+2025-08-16 14:58:49,551 - INFO - Search Agent Created Successfully
+2025-08-16 14:59:46,563 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 14:59:47,229 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 14:59:48,003 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:59:48,003 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMWItNTAxZS03Y2E4LWFjNmItNTNlYmNmZDY0ODlmIiwidiI6MX0.wyYZwxvyWn9n0dgT70AoEuifLDbNatefelJ4DxBN5UM,d0895165-ee75-45ae-b160-b3a61ef2ec7e
+2025-08-16 14:59:48,004 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 14:59:48,471 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 14:59:48,491 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:59:48,878 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 14:59:49,605 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 14:59:49,608 - INFO - Getting all the tools from server successfully
+2025-08-16 14:59:49,649 - INFO - Search Agent Created Successfully
+2025-08-16 15:07:37,881 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:07:38,476 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:07:39,229 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:07:39,230 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMjItODBlNi03YWI3LWIwY2MtMDlkM2VkZGU1NmJjIiwidiI6MX0.8MvERHxF6FshpdLujCGp3IY-cO1ZV-QGTwocxojmV48,f9b44a3a-7b05-409f-9114-a18c2652a858
+2025-08-16 15:07:39,232 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:07:39,747 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:07:39,752 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:07:40,190 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:07:40,649 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:07:40,656 - INFO - Getting all the tools from server successfully
+2025-08-16 15:07:40,698 - INFO - Search Agent Created Successfully
+2025-08-16 15:10:04,546 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:10:05,112 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:10:05,845 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:10:05,846 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMjQtYmQ5MS03YWRkLTljMzktYmYxZGZlZGY1NDc3IiwidiI6MX0.7Z2GBhV6s3ii8KhAa99ArTiUjJEUXw_7PDAMRn_lNb0,b7f18282-9bcc-4662-9c20-66bcc0b71145
+2025-08-16 15:10:05,848 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:10:06,269 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:10:06,307 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:10:06,772 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:10:07,202 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:10:07,205 - INFO - Getting all the tools from server successfully
+2025-08-16 15:10:07,248 - INFO - Search Agent Created Successfully
+2025-08-16 15:10:07,580 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:10:07,772 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:10:53,267 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:10:53,833 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:10:54,818 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:10:54,819 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMjUtN2JkOC03MzEwLWIyODgtNDM0ZmE3ZTBjZjI0IiwidiI6MX0.YVmOsOWbmg96Tz3uMaWohviELoKT9_doLxEScVi_Usg,5eb67575-5d92-4830-8568-2a4dee717dc2
+2025-08-16 15:10:54,821 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:10:55,300 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:10:55,357 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:10:55,787 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:10:56,293 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:10:56,294 - INFO - Getting all the tools from server successfully
+2025-08-16 15:10:56,318 - INFO - Search Agent Created Successfully
+2025-08-16 15:10:56,565 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:15:23,238 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:15:23,828 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:15:27,228 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:27,229 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMjktYTQ1YS03ZjgyLWFlYTItMmU3M2M2NGY1ZTA3IiwidiI6MX0.dOkGmF1U6ifLolJb4ERVa1GvFJTEZ6fvjaQ_8Zv36mw,f0c586ab-0f14-4cca-9d81-2efa09ffd6b1
+2025-08-16 15:15:27,231 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:15:27,651 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:27,756 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:15:28,166 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:28,676 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:15:28,678 - INFO - Getting all the tools from server successfully
+2025-08-16 15:15:28,713 - INFO - Search Agent Created Successfully
+2025-08-16 15:15:29,031 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:15:29,291 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:15:29,999 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:29,999 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMjktYWZjMi03OGQ4LWExNzAtNDEwMGE4MTdlOWVmIiwidiI6MX0.wSaCcybl54aGPmsUvOi7Gb7mG1UV_6oTOyv2F2yF7x0,7df60a63-78f3-4394-922c-daa69c54538f
+2025-08-16 15:15:30,001 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:15:30,475 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:15:30,524 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:37,458 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:37,895 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:38,493 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:15:39,236 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:15:40,352 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:40,352 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMjktZDczOC03ODBjLTlkZDUtYTc2OWY5NjkwNTVkIiwidiI6MX0.WCGAOFdo6Ndmu5fsLsoHzckBbpqaKEwY1jdAwEPcIIk,065d0a04-a0a7-463c-bf09-d96e28751b63
+2025-08-16 15:15:40,352 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:15:40,866 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:15:40,872 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:46,526 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:46,954 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:15:47,387 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:15:47,499 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-16 15:15:47,500 - INFO - Retrying request to /openai/v1/chat/completions in 28.000000 seconds
+2025-08-16 15:16:16,479 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:16:17,261 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:16:17,261 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMmEtNjg1YS03ZWFiLWE1ZjktNWYzNjViOTFkN2Y3IiwidiI6MX0.3SbdDeGemwzrQuSKnTp2B339MMacjvRwVd7Jf25vEmA,87d579cd-aaae-4a59-9c55-167ea1b4b8a3
+2025-08-16 15:16:17,261 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:16:17,674 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:16:17,715 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:16:24,284 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:16:25,211 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:16:25,634 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:16:25,829 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-08-16 15:17:32,538 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:17:33,105 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:17:33,859 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:17:33,859 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMmItOTM4Yy03MWNjLTg1ZTctZDUzOGIzNmUwMGVlIiwidiI6MX0.zjH2ToWwTZ-n8yUe_IktLw32AXTG8MtF1SZb_kdcO5A,bc90f7ac-539b-4ce3-9872-bc708f389074
+2025-08-16 15:17:33,860 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:17:34,282 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:17:34,388 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:17:34,728 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:17:35,182 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:17:35,182 - INFO - Getting all the tools from server successfully
+2025-08-16 15:17:35,236 - INFO - Search Agent Created Successfully
+2025-08-16 15:17:35,553 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:17:35,595 - INFO - Image Generated Successfully
+2025-08-16 15:19:01,088 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:19:01,654 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:19:02,380 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:19:02,380 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMmMtZWQ2MC03OWM2LTlmOTQtZmE4OTljODIyZDJiIiwidiI6MX0.aPr3qX3cfJ6XDgXDtAet4OyvxMFtgd2qAtYQiBgudQg,4d3e121c-0ae6-4185-b229-280dde455f9d
+2025-08-16 15:19:02,382 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:19:04,184 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:19:04,229 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:19:04,624 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:19:05,087 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:19:05,093 - INFO - Getting all the tools from server successfully
+2025-08-16 15:19:05,105 - INFO - Search Agent Created Successfully
+2025-08-16 15:19:05,414 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:19:05,424 - INFO - Image Generated Successfully
+2025-08-16 15:19:26,912 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:19:27,517 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:19:28,334 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:19:28,334 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMmQtNTI5Zi03OGRiLWFhODctN2JhNWY3YjI3MGVmIiwidiI6MX0.qm-4_ML_aTIftXWG980pNPajSYRUy-mSTui8PhY6kDg,01a4d3f7-4af7-478d-8bb0-a53b84990fdd
+2025-08-16 15:19:28,337 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:19:28,754 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:19:30,398 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:19:30,801 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:19:31,214 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:19:31,214 - INFO - Getting all the tools from server successfully
+2025-08-16 15:19:31,227 - INFO - Search Agent Created Successfully
+2025-08-16 15:19:31,510 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:19:31,520 - INFO - Image Generated Successfully
+2025-08-16 15:20:45,209 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:20:45,792 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:20:46,594 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:20:46,595 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMmUtODQ3MC03ZGE0LTlmZWUtY2IxNmY5ZjAyYmFiIiwidiI6MX0.aFOrGNeaz1AAbcXQCMuHc9uQHlezR9Ye2nwT27ddReQ,f217dc3b-f9c2-4fa1-85e5-af308a9571aa
+2025-08-16 15:20:46,598 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:20:47,029 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:20:47,033 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:20:49,050 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:20:49,453 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:20:49,453 - INFO - Getting all the tools from server successfully
+2025-08-16 15:20:49,495 - INFO - Search Agent Created Successfully
+2025-08-16 15:20:49,814 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:20:50,174 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:20:51,200 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:20:51,201 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyMmUtOTVmMi03ZTllLTk5MWQtYjE0OGEzZTExNjFlIiwidiI6MX0.b4uZ-Otddnhh_WM50UKCMzI_5EGxJwLYJ-EGdPxf-Wo,c9cccb76-fd15-41cf-8f5f-26751fd01d4e
+2025-08-16 15:20:51,202 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:20:51,694 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:20:51,726 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:20:57,503 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:20:57,541 - ERROR - Error parsing SSE message
+Traceback (most recent call last):
+  File "C:\Users\BOSS\Desktop\Agent_AI\.venv\Lib\site-packages\mcp\client\streamable_http.py", line 162, in _handle_sse_event
+    message = JSONRPCMessage.model_validate_json(sse.data)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BOSS\Desktop\Agent_AI\.venv\Lib\site-packages\pydantic\main.py", line 746, in model_validate_json
+    return cls.__pydantic_validator__.validate_json(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for JSONRPCMessage
+  Invalid JSON: EOF while parsing a string at line 1 column 6737 [type=json_invalid, input_value='{"result":{"content":[{"...ard to see the forecast', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/json_invalid
+2025-08-16 15:39:03,134 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:39:03,701 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:39:36,484 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:39:37,046 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:39:37,849 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:39:37,849 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyM2YtYzc2Mi03ZDQ0LWJmNDktZTQxMGVjMDE1ODQwIiwidiI6MX0.TLyVP-ucBAhWOFZ22rK_gw4Wkjcd-z8Es3nwpMyIMwc,524193a5-a88c-49ef-bb6a-ee496376c53e
+2025-08-16 15:39:37,850 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:39:38,256 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:39:38,292 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:39:38,668 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:39:39,074 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:39:39,074 - INFO - Tools fetched successfully
+2025-08-16 15:39:39,118 - INFO - Search Agent Created Successfully
+2025-08-16 15:39:39,444 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:39:39,647 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:40:04,148 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:40:04,696 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:40:05,410 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:40:05,410 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyNDAtMzMxMi03N2QyLThjYjEtYWRmNzRiOWY4N2EzIiwidiI6MX0.dpHAUTZ4SUDf7UhcMvgJRjA5v7ASEP7DeAS8Gf1rSQE,3c1c4cbe-4a70-4dcb-9429-1b44309b0cc7
+2025-08-16 15:40:05,412 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:40:05,919 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:40:05,934 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:40:06,404 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:40:06,824 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:40:06,824 - INFO - Tools fetched successfully
+2025-08-16 15:40:06,824 - INFO - Search Agent Created Successfully
+2025-08-16 15:40:07,083 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:40:07,376 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:40:08,141 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:40:08,141 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyNDAtM2RjYS03ZmNhLTgxMGUtZWM4YjE4YmEzZmRlIiwidiI6MX0.yUB7zIiGaRKgcLoxuz7qEtRKY4JGzqABxMNu01hrbkE,d4d7f097-722b-4389-9e0f-b61c69f1a648
+2025-08-16 15:40:08,141 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:40:08,637 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:40:08,715 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:40:14,337 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:40:15,066 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:40:15,561 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:40:16,801 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:42:09,548 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:42:10,111 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:42:10,868 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:42:10,868 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyNDItMWQxMy03NWQ1LWFjYjktYmVmNzY0ZmIxNGE3IiwidiI6MX0.Br1d2N9aubUyxLEQ_81HDc1yo5sLZV7jPU3T4TbyXE4,de2c1261-3cee-4e8a-b90c-35102db6c604
+2025-08-16 15:42:10,874 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:42:11,290 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:42:11,290 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:42:11,689 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:42:12,158 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:42:12,158 - INFO - Tools fetched successfully
+2025-08-16 15:42:12,189 - INFO - Search Agent Created Successfully
+2025-08-16 15:42:12,537 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:42:12,568 - INFO - Image Generated Successfully
+2025-08-16 15:43:30,461 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:43:31,035 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:43:31,732 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:43:31,732 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyNDMtNTkxMS03MWQyLWJkNjMtZmE1Mzg3MTdiYTU3IiwidiI6MX0.DsMTdp4n9kYyW3Xi7PEqIY-Zf2j6__60TQtmV-JW3tk,ed4e90a6-2d9b-469f-8bec-94f0b380419b
+2025-08-16 15:43:31,748 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:43:32,199 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:43:32,199 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:43:32,642 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:43:33,452 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:43:33,452 - INFO - Tools fetched successfully
+2025-08-16 15:43:33,495 - INFO - Search Agent Created Successfully
+2025-08-16 15:43:33,883 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:43:34,713 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:49:29,359 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 15:49:29,955 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 15:49:30,999 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:49:31,000 - INFO - Received session ID: eyJpIjoiNjgzMjMzMmE2MGQ2MjgiLCJzIjoiMDE5OGIyNDgtZDM3NC03ZGIwLTg3MTEtMTM3ODkyMzQ2NzQwIiwidiI6MX0.5UyVgD8ygIi0o6NYCksysC_62ZAtdh5JFTXEd4CE_vw,a15dfef1-7630-4488-91cf-a308bbb93c42
+2025-08-16 15:49:31,003 - INFO - Negotiated protocol version: 2025-03-26
+2025-08-16 15:49:31,502 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 15:49:31,539 - INFO - HTTP Request: GET https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:49:31,992 - INFO - HTTP Request: POST https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 15:49:32,397 - INFO - HTTP Request: DELETE https://server.smithery.ai/exa/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 204 No Content"
+2025-08-16 15:49:32,400 - INFO - Tools fetched successfully
+2025-08-16 15:49:32,446 - INFO - Search Agent Created Successfully
+2025-08-16 15:49:32,833 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 15:49:33,050 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
