@@ -3,6 +3,7 @@ from auth import models
 from auth.db import engine
 from auth.routes import router
 from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
 
 
 app = FastAPI()
@@ -19,5 +20,5 @@ models.Base.metadata.create_all(bind = engine)
 
 app.include_router(router)
 
-# if __name__ == "__main__":
-#     uvicorn.run(app=app, host = "0.0.0.0", port = 5555)
+if __name__ == "__main__":
+    uvicorn.run(app=app)
