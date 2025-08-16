@@ -6,6 +6,54 @@ An intelligent agent system built with LangChain, LangGraph, and FastAPI that co
 
 ![Agent Architecture](img/agent_architecture.PNG)
 
+## Approach & Design
+
+### Core Approach
+
+- **Graph-Based Routing**: Implemented using LangGraph for intelligent task distribution and workflow management
+- **Multi-Model Strategy**: Using specialized models for different tasks
+  - Llama 3.3 70B Versatile: Primary model for general queries and content generation
+  - OpenAI GPT-OSS 20B: Specialized for agent operations and tool usage
+
+### Risk Controls
+
+- **Input Validation**
+
+  - All user inputs are validated using Pydantic models
+
+- **Error Handling**
+
+  - Comprehensive exception handling with custom error types
+  - Detailed logging for debugging and monitoring
+
+- **Security Measures**
+  - JWT-based authentication
+  - Bcrypt password hashing
+  - CORS protection
+  - Environment variable management for sensitive data
+
+### Assumptions & Limitations
+
+- **Model Capabilities**
+
+  - Using open-source models (Llama 3.3 70B, GPT-OSS 20B) which may be slower than commercial alternatives
+  - Models may not be as optimized as the latest commercial options
+  - Real-time information requires external tool integration
+  - Image generation has style and content limitations
+
+- **API and Tools**
+
+  - MCP tools use free-tier services which may have higher latency
+  - Non-paid API services have rate limits and usage restrictions
+  - Tool response times can vary significantly
+  - Data retrieval might be slower compared to premium services
+
+- **Performance**
+
+  - Higher latency due to open-source model inference
+  - Resource intensive operations due to model size
+  - Concurrent handling may be limited by free-tier restrictions
+
 ## Features
 
 - **Multi-Modal Capabilities**
