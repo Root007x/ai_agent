@@ -1569,3 +1569,59 @@ anyio.ClosedResourceError
 2025-08-16 17:36:25,691 - INFO - Search Agent Created Successfully
 2025-08-16 17:36:25,880 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
 2025-08-16 17:36:26,768 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 17:57:48,954 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 17:57:49,699 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 17:57:51,279 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:57:51,279 - INFO - Received session ID: eyJpIjoiZDhkZDIxNmYwNDk3ZDgiLCJzIjoiMDE5OGIyYmUtNTA3NS03OGI2LTkxNzYtNjU1MTQ5M2Q0YWM4IiwidiI6MX0.ZjZqJv85CZLrt1VUC4BIlL0UTa5lRu4Qqqhs_JYMhhk,5274ae2f-8b5f-42e1-9b42-bdc45720b3d9
+2025-08-16 17:57:51,279 - INFO - Negotiated protocol version: 2025-06-18
+2025-08-16 17:57:51,760 - INFO - HTTP Request: GET https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:57:51,770 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 17:57:52,254 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:57:52,779 - INFO - HTTP Request: DELETE https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:57:52,779 - INFO - Tools fetched successfully
+2025-08-16 17:57:52,793 - INFO - Search Agent Created Successfully
+2025-08-16 17:57:53,095 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 17:57:53,251 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 17:58:09,252 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 17:58:10,005 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 17:58:11,604 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:11,604 - INFO - Received session ID: eyJpIjoiNTY4MzI3MTJmZTAyMDgiLCJzIjoiMDE5OGIyYmUtOWY3Ny03ZTlhLWI2ZjQtOThmNzk3Nzc5NTRhIiwidiI6MX0.NUMYnyv3QwyrK961qDG_WOY4QjzMtqvIvyOWg4_bdkw,426f0061-8896-4273-b516-28e3f7d29897
+2025-08-16 17:58:11,604 - INFO - Negotiated protocol version: 2025-06-18
+2025-08-16 17:58:12,024 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 17:58:12,095 - INFO - HTTP Request: GET https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:12,440 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:12,844 - INFO - HTTP Request: DELETE https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:12,846 - INFO - Tools fetched successfully
+2025-08-16 17:58:12,849 - INFO - Search Agent Created Successfully
+2025-08-16 17:58:13,096 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 17:58:13,098 - INFO - Image Generated Successfully
+2025-08-16 17:58:44,291 - INFO - Decision LLM Model Initialize successfully
+2025-08-16 17:58:44,996 - INFO - Agent LLM Model Initialize successfully
+2025-08-16 17:58:46,526 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:46,526 - INFO - Received session ID: eyJpIjoiZDhkZDIxNmYwNDk3ZDgiLCJzIjoiMDE5OGIyYmYtMjg1My03NWRhLWEwN2MtMGJhZTU2NTE4YjJlIiwidiI6MX0.qkPir3SgJ8u49kDY7KkGKFshVKTNBO06YwkDMaYnw4s,ef4cdbee-72e9-4b1b-b6a9-aff66f247589
+2025-08-16 17:58:46,526 - INFO - Negotiated protocol version: 2025-06-18
+2025-08-16 17:58:46,940 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 17:58:47,589 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:48,357 - INFO - HTTP Request: DELETE https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:48,379 - INFO - Tools fetched successfully
+2025-08-16 17:58:48,383 - INFO - Search Agent Created Successfully
+2025-08-16 17:58:48,664 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 17:58:48,862 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 17:58:50,553 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:50,553 - INFO - Received session ID: eyJpIjoiNTY4MzI3MTJmZTAyMDgiLCJzIjoiMDE5OGIyYmYtMzc3OC03ZDJjLTk1M2YtZGUxYWJhYjBiNzc5IiwidiI6MX0.rKyfGnmT5B4MWccF79uu6Zg57en9h0N82gkRyci-6JU,63075e15-3135-4aa3-9ed2-6bde19ef4695
+2025-08-16 17:58:50,554 - INFO - Negotiated protocol version: 2025-06-18
+2025-08-16 17:58:50,971 - INFO - HTTP Request: GET https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:50,987 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 17:58:52,237 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:52,651 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:53,068 - INFO - HTTP Request: DELETE https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:53,282 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-16 17:58:54,918 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:54,918 - INFO - Received session ID: eyJpIjoiNTY4MzI3MTJmZTAyMDgiLCJzIjoiMDE5OGIyYmYtNDg5Zi03YWYyLTk1NzUtYmNjNzhmYjQyMzY4IiwidiI6MX0.fQ1r2i1hF-0Jy_qxTnbVDkA0lAxo9xjsy25IXLWxh6s,bad05cfa-706a-4f75-b536-1fe1635b9963
+2025-08-16 17:58:54,918 - INFO - Negotiated protocol version: 2025-06-18
+2025-08-16 17:58:55,337 - INFO - HTTP Request: GET https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:55,346 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 202 Accepted"
+2025-08-16 17:58:57,432 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:57,934 - INFO - HTTP Request: POST https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:58,423 - INFO - HTTP Request: DELETE https://server.smithery.ai/@nickclyde/duckduckgo-mcp-server/mcp?api_key=6b22a5b2-d640-40fe-b823-f62c5a83063b&profile=sacred-guanaco-pEmpOL "HTTP/1.1 200 OK"
+2025-08-16 17:58:58,797 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

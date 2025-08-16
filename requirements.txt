@@ -12,3 +12,5 @@ mcp[cli]
 langchain_mcp_adapters
 nltk
 matplotlib
+fastapi
+uvicorn
