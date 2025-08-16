@@ -9,6 +9,15 @@ The FastAPI application is deployed and accessible on Hugging Face Spaces:
 - API Documentation: [https://root007x-ai-agent.hf.space/docs](https://root007x-ai-agent.hf.space/docs)
 - Live Demo: [https://root007x.github.io/chat_interface/](https://root007x.github.io/chat_interface/)
 
+### Authentication
+
+You can use the following demo credentials to test the application:
+
+- **Username:** mahadi
+- **Password:** 12345
+
+Alternatively, you can register with your own credentials using the registration form.
+
 ## Architecture
 
 ![Agent Architecture](img/agent_architecture.PNG)
