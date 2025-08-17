@@ -109,6 +109,7 @@ Alternatively, you can register with your own credentials using the registration
     - OpenAI GPT-OSS 20B (Agent LLM)
 - **Tools & Services**:
   - Smithy AI (MCP Tools Provider)
+  - Pollinations.AI API (Image Generation)
 - **Database**: SQLite with SQLAlchemy
 - **Authentication**: JWT with OAuth2
 
