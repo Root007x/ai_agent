@@ -109,15 +109,13 @@ Alternatively, you can register with your own credentials using the registration
     - OpenAI GPT-OSS 20B (Agent LLM)
 - **Tools & Services**:
   - Smithy AI (MCP Tools Provider)
-  - Exa AI Search Integration
 - **Database**: SQLite with SQLAlchemy
 - **Authentication**: JWT with OAuth2
-- **Testing**: Built-in backtest functionality
 
 ## Project Structure
 
 ```
-.
+ai_agent/
 ├── auth/                           # Authentication related code
 │   ├── __init__.py
 │   ├── auth.py                    # Authentication logic
@@ -127,40 +125,41 @@ Alternatively, you can register with your own credentials using the registration
 │   ├── schemas.py                 # Pydantic models
 │   └── security.py                # Security utilities
 ├── backtest_result/               # Testing results and metrics
-│   ├── content_result.csv        # Content generation test results
-│   ├── image_result.csv         # Image generation test results
-│   ├── latest_result.csv        # Real-time info test results
-│   ├── qa_accuracy.png         # Q&A accuracy visualization
-│   └── qa_result.csv           # Q&A test results
-├── logs/                         # Application logs
-│   ├── log_2025-08-16.log      # Daily logs
-│   └── log_2025-08-17.log
-├── notebook/                     # Jupyter notebooks
-│   ├── ai_agent.ipynb          # Development notebook
-│   └── image.png               # Test image
-├── src/                         # Source code
+│   ├── backtest.py              # Testing script
+│   ├── content_result.csv       # Content generation results
+│   ├── image_result.csv        # Image generation results
+│   ├── latest_result.csv       # Real-time info results
+│   ├── qa_accuracy.png        # Q&A accuracy visualization
+│   └── qa_result.csv          # Q&A test results
+├── img/                      # Documentation images
+│   └── agent_architecture.PNG # Architecture diagram
+├── logs/                    # Application logs
+│   └── log_2025-08-17.log  # Daily logs
+├── notebook/                # Jupyter notebooks
+│   └── ai_agent.ipynb      # Development notebook
+├── src/                    # Source code
 │   ├── __init__.py
-│   ├── components/             # Core components
+│   ├── components/        # Core components
 │   │   ├── __init__.py
-│   │   ├── agent.py           # Agent implementation
-│   │   ├── graph.py           # Graph structure
-│   │   ├── model.py           # LLM models
-│   │   ├── node.py            # Node definitions
-│   │   └── tools.py           # MCP tools
-│   ├── config/                # Configuration
+│   │   ├── agent.py      # Agent implementation
+│   │   ├── graph.py      # Graph structure
+│   │   ├── model.py      # LLM models
+│   │   ├── node.py       # Node definitions
+│   │   └── tools.py      # MCP tools
+│   ├── config/           # Configuration
 │   │   ├── __init__.py
-│   │   └── config.py         # Configuration settings
-│   └── utils/                 # Utilities
+│   │   └── config.py    # Configuration settings
+│   └── utils/           # Utilities
 │       ├── __init__.py
-│       ├── custom_exception.py # Custom error handling
-│       └── logger.py          # Logging configuration
-├── auth.db                     # SQLite database
-├── backtest.py                # Testing script
-├── main.py                    # Application entry point
-├── pyproject.toml            # Project metadata and dependencies
-├── README.md                 # Project documentation
-├── requirements.txt          # Project dependencies
-└── uv.lock                  # Dependency lock file
+│       ├── custom_exception.py # Error handling
+│       └── logger.py     # Logging configuration
+├── auth.db              # SQLite database
+├── Dockerfile          # Container configuration
+├── main.py            # Application entry point
+├── pyproject.toml    # Project metadata
+├── README.md        # Project documentation
+├── requirements.txt # Dependencies
+└── uv.lock         # Dependency lock file
 ```
 
 ## Setup
