@@ -263,7 +263,3 @@ Here you can:
 - Password hashing using bcrypt
 - CORS middleware for frontend integration
 - Input validation using Pydantic models
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
