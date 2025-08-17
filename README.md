@@ -7,7 +7,7 @@ An intelligent agent system built with LangChain, LangGraph, and FastAPI that co
 The FastAPI application is deployed and accessible on Hugging Face Spaces:
 
 - API Documentation: [https://root007x-ai-agent.hf.space/docs](https://root007x-ai-agent.hf.space/docs)
-- Live Demo: [https://root007x.github.io/chat_interface/](https://root007x.github.io/chat_interface/)
+- Live Demo: [https://root007x.github.io/chat_interface/](https://root007x.github.io/chat_interface/) (prebuilt frontend used to test API)
 
 ### Authentication
 
