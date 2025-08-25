@@ -83,7 +83,6 @@ Alternatively, you can register with your own credentials using the registration
 
   - Automatic query classification
   - Task-specific node handling
-  - State management with MemorySaver
 
 - **Authentication & Security**
 
